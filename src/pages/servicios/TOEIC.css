@@ -1,0 +1,24 @@
+.toeic{
+    display: flex;
+    padding: 20px 0px;
+}
+
+.toeic-img img{
+    max-width: 300px;
+    max-height: 300px;
+}
+
+.toeic-text{
+    font-family: Poppins,sans-serif;
+    font-size: 20px;
+    margin-left: 20px;
+}
+
+.toe-par h3{
+    color: dodgerblue;
+    padding: 20px 0px;
+}
+
+.toeic-text{
+    margin-bottom: 20px;
+}

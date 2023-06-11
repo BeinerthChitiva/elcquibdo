@@ -1,0 +1,40 @@
+.hero-pages{
+    background-image: url("../images/historia4.jpg");
+    margin-top: -20px;
+    /* background-position: center top;
+    background-repeat: no-repeat;
+    background-size: auto 100%; */
+    height: 256px;
+}
+
+/* background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center; */
+
+.hero-pages-text {
+    font-family: Poppins,sans-serif;
+    color: #010103;
+    display: flex;
+    flex-direction: column;
+    height: 20rem;
+    justify-content: center;
+    position: relative;
+    width: 100%;
+    z-index: 3;
+}
+
+.hero-pages-text h3{
+    font-size: 3.6rem;
+    margin-bottom: 0.5rem;
+}
+
+.hero-pages-text p{
+    font-size: 1.6rem;
+    font-weight: 600;
+}
+
+.hero-pages-text p a{
+    color: #010103;
+    text-decoration: none;
+    transition: all .2s;
+}

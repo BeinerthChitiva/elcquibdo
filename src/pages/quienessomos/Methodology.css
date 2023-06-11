@@ -1,0 +1,20 @@
+.methodology-main{
+    font-family: Poppins,sans-serif;
+    margin-bottom: 20px;
+}
+
+.methodology-main h1, h2{
+    color: dodgerblue;
+    font-size: 40px;
+    padding: 2rem 0;
+    font-weight: bold;
+}
+
+.methodology-main p{
+    font-size: 18px;
+}
+
+.methodology-main li{
+    font-size: 18px;
+    list-style: circle;
+}

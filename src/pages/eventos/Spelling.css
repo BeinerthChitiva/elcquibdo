@@ -1,0 +1,25 @@
+.spell-text{
+    padding: 20px 0px;
+    font-family: Poppins,sans-serif;
+    font-size: 20px;
+}
+
+.spell-text h3{
+    color: dodgerblue;
+    font-family: Poppins,sans-serif;
+    font-size: 40px;
+    padding: 20px 0px;
+    font-weight: bold;
+}
+
+.spell-text p{
+    padding: 20px 0px;
+}
+
+.spell-text span{
+    font-weight: bold;
+}
+
+.spell-slider{
+    margin-bottom: 20px;
+}

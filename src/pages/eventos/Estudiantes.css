@@ -1,0 +1,47 @@
+.stu-text{
+    padding: 20px 0px;
+    font-family: Poppins,sans-serif;
+    font-size: 20px;
+}
+
+.stu-text h3{
+    font-size: 40px;
+    color: dodgerblue;
+    font-weight: bold;
+}
+
+.stu-text p{
+    padding: 20px 0px;
+}
+
+.stu-profiles{
+    font-family: Poppins,sans-serif;
+    font-size: 20px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+.pro-left{
+    display: flex;
+    flex-direction: column;
+}
+
+.pro-right{
+    display: flex;
+    flex-direction: column;
+}
+
+.pro-title{
+    font-size: 30px;
+    color: dodgerblue;
+    margin-top: 10px;
+}
+
+.pro-card{
+    margin-bottom: 20px;
+}
+
+.stu-hr{
+    margin-top: 20px;
+    margin-bottom: 30px;
+}

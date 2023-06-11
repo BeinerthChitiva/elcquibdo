@@ -1,0 +1,71 @@
+h2{
+    font-family: Poppins,sans-serif;
+}
+.test-main{
+    padding: 20px 0px;
+    font-family: Poppins,sans-serif;
+    font-size: 20px;
+}
+
+.test-accordion{
+    padding: 20px 0px;
+    margin-bottom: auto;
+    font-family: Poppins,sans-serif;
+    font-size: 18px;
+}
+
+.accordion-header{
+    font-size: 30px;
+    font-weight: 600;
+}
+
+.accordion-item{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+.accordion-img{
+    max-height: 250px;
+    max-width: 250px;
+}
+
+.test-testimonies{
+    display: flex;
+    align-items: center;
+    margin-bottom: 40px
+}
+
+.ceo-text{
+    padding-left: 15px;
+    font-family: Poppins,sans-serif;
+    font-size: 22px;
+}
+
+/* //////////////////////// */
+
+/* .ceo-text-ul {
+    display: flex;
+    flex-wrap: wrap;
+    list-style: none;
+    padding: 0;
+}
+  
+.ceo-text-ul li {
+flex: 0 0 auto;
+margin-right: 1rem;
+}
+
+.ceo-text-ul li:last-child {
+margin-right: 0;
+} */
+
+/* //////////////////////// */
+
+.ceo-text-p{
+    padding: 10px 0px;
+}
+
+.ceo-text-ul a{
+    color: dodgerblue;
+}

@@ -1,0 +1,30 @@
+.becas-text{
+    padding: 20px 0px;
+    font-family: Poppins,sans-serif;
+    font-size: 20px;
+}
+
+.becas-text h3{
+    color: dodgerblue;
+    font-family: Poppins,sans-serif;
+    font-size: 40px;
+    padding: 20px 0px;
+    font-weight: bold;
+}
+
+.becas-text h4{
+    font-size: 25px;
+}
+
+.becas-text p{
+    padding: 20px 0px;
+}
+
+
+.becas-slider{
+    padding: 20px 0px;
+}
+
+.neyo{
+    margin-bottom: 20px;
+}

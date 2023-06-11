@@ -1,0 +1,19 @@
+.moving-text{
+    padding: 20px 0px;
+    font-family: Poppins,sans-serif;
+    font-size: 20px;
+}
+
+.moving-text h3{
+    font-size: 40px;
+    color: dodgerblue;
+    font-weight: bold;
+}
+
+.moving-text p{
+    margin-bottom: 20px;
+}
+
+.moving-slider{
+    margin-bottom: 40px;
+}

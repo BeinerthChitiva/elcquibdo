@@ -1,0 +1,19 @@
+.tutor{
+    display: flex;
+    padding: 120px 0px;
+}
+
+.tutor-img img{
+    max-width: 300px;
+    max-height: 300px;
+}
+
+.tutor-text{
+    font-family: Poppins,sans-serif;
+    font-size: 20px;
+    margin-left: 20px;
+}
+
+.tutor-text span{
+    font-weight: bold;
+}

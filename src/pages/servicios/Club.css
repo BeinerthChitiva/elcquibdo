@@ -1,0 +1,30 @@
+.club-text{
+    padding: 20px 0px;
+    font-family: Poppins,sans-serif;
+    font-size: 20px;
+}
+
+.club-title{
+    color: dodgerblue;
+    font-family: Poppins,sans-serif;
+    font-size: 40px;
+    padding: 20px 0px;
+    font-weight: bold;
+}
+
+.club-paragraph{
+    margin-bottom: 20px;
+}
+
+.club-paragraph span{
+    font-weight: bold;
+}
+
+.club-paragraph a{
+    color: dodgerblue;
+    font-weight: bold;
+}
+
+.club-slider{
+    margin-bottom: 40px;
+}

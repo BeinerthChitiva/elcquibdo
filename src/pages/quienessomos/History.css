@@ -1,0 +1,15 @@
+.history-main{
+    font-family: Poppins,sans-serif;
+    margin-bottom: 20px;
+}
+
+.history-main h1, h2{
+    color: dodgerblue;
+    font-size: 40px;
+    padding: 2rem 0;
+    font-weight: bold;
+}
+
+.history-main p{
+    font-size: 20px;
+}

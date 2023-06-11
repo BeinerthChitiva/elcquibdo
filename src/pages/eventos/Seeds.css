@@ -1,0 +1,30 @@
+.seedsinfo{
+    padding: 20px 0px;
+    display: flex;
+    flex-direction: column;
+}
+
+.seedsinfo h3{
+    font-size: 40px;
+    color: dodgerblue;
+    font-family: Poppins,sans-serif;
+    margin-bottom: 20px;
+    font-weight: bold;
+}
+
+.seedsinfo span{
+    font-size: 30px;
+    font-family: Poppins,sans-serif;
+    margin-top: 20px;
+}
+
+.seedsimg{
+    max-width: 1200px;
+}
+
+.seedsinfo a{
+    font-size: 30px;
+    color: dodgerblue;
+    font-family: Poppins,sans-serif;
+    font-weight: bold;
+}
