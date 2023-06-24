@@ -22,3 +22,22 @@
     margin-left: 20px;
 }
 
+/* RESPONSIVE DESIGN */
+
+@media (max-width: 995px) {
+    .amity{
+        display: flex;
+        flex-direction: column;
+    }
+    .amity-text{
+        margin-bottom: -60px;
+    }
+    .amity-img{
+        margin-top: -60px;
+        margin-bottom: 20px;
+        align-self: center;
+    }
+}
+
+/* RESPONSIVE DESIGN */
+

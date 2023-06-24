@@ -25,3 +25,22 @@
 .nuqui-slider{
     padding: 20px 0px;
 }
+
+/* RESPONSIVE DESIGN */
+
+@media (max-width: 995px) {
+    .nuqui{
+        display: flex;
+        flex-direction: column;
+    }
+    .nuqui-text{
+        margin-bottom: -60px;
+    }
+    .nuqui-img{
+        margin-top: -60px;
+        margin-bottom: 20px;
+        align-self: center;
+    }
+}
+
+/* RESPONSIVE DESIGN */

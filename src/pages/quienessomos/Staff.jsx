@@ -26,6 +26,7 @@ function Staff(){
             <section className="staff">
                 <HeroPages name="Staff ELC"/>
                 <div className="container">
+                    <h3 className="staff-title">ELC STAFF</h3>
                     <div className="staff-slider">
                         <Slider {...settings}>
                             {images.map((image, index) => (

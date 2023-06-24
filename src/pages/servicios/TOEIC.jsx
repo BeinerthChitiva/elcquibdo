@@ -38,7 +38,7 @@ function TOEIC(){
                     </div>
                     <div className="toe-par">
                         <h3>Condiciones y lugar de inscripción</h3>
-                        <p>
+                        <p className="toe-par-last">
                             Se requiere de un número no inferior a diez (10) personas para la realización de la prueba. Inscríbase personalmente en
                             la sede del Centro Para el Aprendizaje de Inglés-The English Learning Center (ELC). Calle 31 No. 5-21 Sede Escuela
                             Anexa al IEFEM. Tel. 3203204536 o 6714563.

@@ -24,11 +24,13 @@ nav{
 nav h3{
   color: black;
   font-size: 30px;
+  font-weight: bold;
 }
 
 .logo{
     color: #2d2e32;
     cursor: pointer;
+    font-weight: bold;
 }
 
 nav ul{
@@ -95,18 +97,23 @@ nav h3:hover{
 
 /* LMAO */
 
-/* Responsive Design */
 
-.mobile-menu{
+/* Mobile Menu Styles */
+
+.mobile-menu-icon{
     display: none;
 }
+
+/* Mobile Menu Styles */
+
+/* Responsive Design */
 
 @media (max-width: 900px){
     .nav-links{
         display: none;
     }
 
-    .mobile-menu{
+    .mobile-menu-icon{
         display: flex;
     }
 }

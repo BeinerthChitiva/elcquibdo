@@ -37,3 +37,13 @@
     padding: 20px 0px;
     margin-bottom: 40px;
 }
+
+/* RESPONSIVE DESIGN */
+
+@media (max-width: 650px) {
+    .inm-vids iframe{
+        width: 400px;
+    }
+}
+
+/* RESPONSIVE DESIGN */

@@ -2,6 +2,7 @@ import "./Footer.css"
 import elclogo from "../images/elclogo.png"
 import { faEnvelope, faPhone } from '@fortawesome/free-solid-svg-icons'
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome'
+import { Link } from "react-router-dom"
 
 
 function Footer(){
@@ -33,19 +34,29 @@ function Footer(){
                         <ul className="footer-content-2">
                             <li>Links</li>
                             <li>
-                                <a href="#home" className="special">Quienes Somos</a>
+                                <Link to="/quienes-somos" className="special">
+                                    <h4>Quienes Somos</h4>
+                                </Link>
                             </li>
                             <li>
-                                <a href="#home" className="special">Cursos</a>
+                                <Link to="/cursos" className="special">
+                                    <h4>Cursos</h4>
+                                </Link>
                             </li>
                             <li>
-                                <a href="#home" className="special">Servicios</a>
+                                <Link to="/inmersion" className="special">
+                                    <h4>Servicios</h4>
+                                </Link>
                             </li>
                             <li>
-                                <a href="#home" className="special">Eventos / Programas</a>
+                                <Link to="/semillas-2023" className="special">
+                                    <h4>Eventos / Programas</h4>
+                                </Link>
                             </li>
                             <li>
-                                <a href="#home" className="special">Blog</a>
+                                <Link to="/blog" className="special">
+                                    <h4>Blog</h4>
+                                </Link>
                             </li>
                         </ul>
 

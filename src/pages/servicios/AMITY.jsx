@@ -18,8 +18,7 @@ function AMITY(){
                             El ELC también te ayuda a tener una experiencia internacional haciendo tu pasantía en AMITY.
                             Ya hemos tenido estudiantes que han sido afectados positivamente por este gran programa que ayuda
                             a fortalecer tus competencias en inglés, a ganar experiencia en el área de la enseñanza y a ser
-                            un embajador formal de Colombia en las instituciones educativas americanas. Echa un vistazo a
-                            la descripción y requerimientos de la misma ((aquí.))
+                            un embajador formal de Colombia en las instituciones educativas americanas.
                         </p>
                     </div>
                 </div>

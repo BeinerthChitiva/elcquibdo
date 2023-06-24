@@ -5,12 +5,14 @@ import { Link } from "react-router-dom"
 import Dropdown from "./Dropdown"
 import { useState, useRef, useEffect } from "react"
 import { subMenus } from "./subMenus"
+import MobileMenu from "./MobileMenu";
 
 function Navbar(){
     const [dropdownVisible, setDropdownVisible] = useState(false)
     const [dropdownPosition, setDropdownPosition] = useState({})
     const [dropdownLinks, setDropdownLinks] = useState([])
     const navbarRef = useRef(null)
+    const [isMobileMenuOpen, setIsMobileMenuOpen] = useState(false);
 
     function handleClick(e, links){
         setDropdownVisible(true)
@@ -43,7 +45,21 @@ function Navbar(){
         }
     }, [])
 
-    console.log("dropdownLinks:", dropdownLinks);
+    //console.log("dropdownLinks:", dropdownLinks);
+
+    function handleSubMenuLinkClick() {
+        setDropdownVisible(false); // Close the SubMenu when a SubMenu link is clicked
+    }
+
+    //Mobile Menu Functionality
+
+    function handleMobileMenuClick() {
+        setIsMobileMenuOpen(!isMobileMenuOpen);
+    }
+
+    function handleMobileMenuClose() {
+        setIsMobileMenuOpen(false);
+    }
 
     return(
         <nav ref={navbarRef}>
@@ -72,17 +88,23 @@ function Navbar(){
                     </Link >
                 </li>
                 <li>
-                    <Link className="nav-links">
+                    <Link className="nav-links" to="/blog">
                         Blog
                     </Link>
                 </li>
             </ul>
             {dropdownVisible && (
-                <Dropdown onClose={handleDropdownClose} position={dropdownPosition} links={dropdownLinks}/>
+                <Dropdown
+                    onClose={handleDropdownClose}
+                    position={dropdownPosition}
+                    links={dropdownLinks}
+                    onSubMenuLinkClick={handleSubMenuLinkClick}
+                />
             )}
-            <div className="mobile-menu">
-                <FontAwesomeIcon icon={faAlignJustify}/>
+            <div className="mobile-menu-icon" onClick={handleMobileMenuClick}>
+                <FontAwesomeIcon icon={faAlignJustify} onClick={handleMobileMenuClick}/>
             </div>
+            <MobileMenu isOpen={isMobileMenuOpen} onClose={handleMobileMenuClose} />
         </nav>
     )
 }

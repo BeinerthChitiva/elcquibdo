@@ -19,7 +19,7 @@ export const subMenus = {
     { label: "UNICA", url: "/unica" },
     { label: "AMITY", url: "/amity" },
     { label: "Club De Conversación", url: "/club" },
-    { label: "Herramientas Aprendizaje", url: "/herramientas" }
+    { label: "Herramientas Aprendizaje", url: "/independent-learning-tools" }
   ],
   "Eventos / Programas": [
     { label: "Seeds Of Change 2023", url: "/seedsofchange" },

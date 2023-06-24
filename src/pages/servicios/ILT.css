@@ -1,0 +1,172 @@
+/* ILT GUIDES STYLES */
+
+.ilt-guides{
+    padding: 20px 0px;
+    font-family: Poppins,sans-serif;
+    font-size: 20px;
+}
+
+.ilt-guides-title{
+    padding: 40px 0px;
+    color: dodgerblue;
+    font-size: 40px;
+    font-weight: bold;
+}
+
+.guides-voa{
+    margin-bottom: 40px;
+    display: flex;
+    justify-content: space-between;
+}
+
+.guides-btn {
+    display: inline-block;
+    padding: 10px 20px;
+    background-color: dodgerblue;
+    color: #fff;
+    text-decoration: none;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+}
+
+.guides-btn:hover{
+    color: white;
+}
+
+.guides-act-pt1{
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 40px;
+}
+
+.guides-act-pt2{
+    display: flex;
+    justify-content: space-between;
+    margin-left: 80px;
+    margin-right: 80px;
+}
+
+/* Responsive Design */
+
+@media (max-width: 1402px){
+    .guides-voa{
+        display: flex;
+        flex-direction: column;
+    }
+
+    .guides-btn{
+        margin-top: 20px;
+        margin-bottom: 20px;
+    }
+}
+
+@media (max-width: 1000px){
+    .guides-act-pt1{
+        display: flex;
+        flex-direction: column;
+    }
+    .guides-act-pt1 a{
+        margin-top: 20px;
+        margin-bottom: 20px;
+        display: flex;
+        justify-content: center;
+    }
+    .guides-act-pt2{
+        display: flex;
+        flex-direction: column;
+        margin-top: -40px;
+    }
+    .guides-act-pt2 a{
+        margin-top: 20px;
+        margin-bottom: 20px;
+        display: flex;
+        justify-content: center;
+    }
+}
+
+/* Responsive Design */
+
+/* ILT GUIDES STYLES */
+
+/* ILT FUNDAMENTALS STYLES */
+
+.ilt-fundamentals{
+    padding: 20px 0px;
+    font-family: Poppins,sans-serif;
+    font-size: 20px;
+}
+
+.ilt-funds-title{
+    padding: 40px 0px;
+    color: dodgerblue;
+    font-size: 40px;
+    font-weight: bold;
+}
+
+.ilt-funds-structure{
+    display: flex;
+}
+
+.fund-audio{
+    color: dodgerblue;
+    text-decoration: underline;
+    font-weight: bold;
+    font-size: 25px;
+}
+
+.fund-audio:hover{
+    color: dodgerblue;
+}
+
+.funda-right{
+    margin-left: 40px;
+}
+
+.funda-right ul{
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+.funda-subtitle{
+    font-size: 30px;
+    font-weight: bold;
+    margin-bottom: 40px;
+}
+
+.ilt-funds-structure div{
+    width: 50%;
+}
+
+.ilt-table{
+    font-family: Poppins,sans-serif;
+    font-size: 20px;
+    margin-bottom: 20px;
+    border-collapse: collapse;
+    width: 80%;
+    margin-top: 30px;
+}
+
+.ilt-table th{
+    color: dodgerblue;
+}
+
+.ilt-table th,
+.ilt-table td{
+    border: 1px solid #000;
+    padding: 8px;
+}
+
+/* ILT FUNDAMENTALS STYLES */
+
+@media (max-width: 780px){
+    .ilt-funds-structure{
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+    }
+    .funda-right{
+        margin-left: 0px;
+        margin-top: 40px;
+    }
+}

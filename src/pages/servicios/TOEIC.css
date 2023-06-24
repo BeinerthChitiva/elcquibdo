@@ -22,3 +22,24 @@
 .toeic-text{
     margin-bottom: 20px;
 }
+
+/* RESPONSIVE DESIGN */
+
+@media (max-width: 790px) {
+    .toeic{
+        display: flex;
+        flex-direction: column;
+    }
+    .toeic-text{
+        margin-bottom: -20px;
+    }
+    .toeic-img{
+        margin-bottom: 20px;
+        align-self: center;
+    }
+    .toe-par-last{
+        margin-bottom: 60px;
+    }
+}
+
+/* RESPONSIVE DESIGN */

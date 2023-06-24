@@ -25,6 +25,15 @@ import EnglishDay from './pages/eventos/EnglishDay';
 import Becas from './pages/eventos/Becas';
 import Seeds from './pages/eventos/Seeds';
 import Estudiantes from './pages/eventos/Estudiantes';
+import Blog from './pages/blog/Blog';
+import Biling from './pages/blog/Biling';
+import Istmina from './pages/blog/Istmina';
+import ILT from './pages/servicios/ILT';
+import Level1 from './pages/independentlt/Level1';
+import Level2 from './pages/independentlt/Level2';
+import Level3 from './pages/independentlt/Level3';
+import Level4 from './pages/independentlt/Level4';
+import Level5 from './pages/independentlt/Level5';
 
 function App() {
   return (
@@ -53,6 +62,14 @@ function App() {
         <Route path="unica" element={<UNICA/>}/>
         <Route path="amity" element={<AMITY/>}/>
         <Route path="club" element={<Club/>}/>
+        <Route path="independent-learning-tools" element={<ILT/>}/>
+
+        {/* Independent Learning Tools */}
+        <Route path="ilt-unscramble" element={<Level1/>}/>
+        <Route path="ilt-fill-in-the-blanks" element={<Level2/>}/>
+        <Route path="ilt-understanding-words" element={<Level3/>}/>
+        <Route path="ilt-understanding-as-many" element={<Level4/>}/>
+        <Route path="ilt-main-idea" element={<Level5/>}/>
 
         {/* Eventos / Programas */}
         <Route path="seedsofchange" element={<Seeds/>}/>
@@ -63,6 +80,11 @@ function App() {
         <Route path="spellingbee" element={<Spelling/>}/>
         <Route path="englishday" element={<EnglishDay/>}/>
         <Route path="becas" element={<Becas/>}/>
+
+        {/* Blog */}
+        <Route path="blog" element={<Blog/>}/>
+        <Route path="bilinguismo" element={<Biling/>}/>
+        <Route path="utch-istmina" element={<Istmina/>}/>
       </Routes>
     </div>
   );

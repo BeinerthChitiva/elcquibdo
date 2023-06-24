@@ -29,3 +29,14 @@
 .text-par{
     padding: 10px 0px;
 }
+
+/* RESPONSIVE DESIGN */
+
+@media (max-width: 775px) {
+    .desc{
+        display: flex;
+        flex-direction: column;
+    }
+}
+
+/* RESPONSIVE DESIGN */

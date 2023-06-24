@@ -29,3 +29,22 @@
     font-weight: bold;
     margin-top: 20px;
 }
+
+/* RESPONSIVE DESIGN */
+
+@media (max-width: 995px) {
+    .unica{
+        display: flex;
+        flex-direction: column;
+    }
+    .unica-text{
+        margin-bottom: -60px;
+    }
+    .unica-img{
+        margin-top: -60px;
+        margin-bottom: 20px;
+        align-self: center;
+    }
+}
+
+/* RESPONSIVE DESIGN */

@@ -42,26 +42,6 @@ h2{
     font-size: 22px;
 }
 
-/* //////////////////////// */
-
-/* .ceo-text-ul {
-    display: flex;
-    flex-wrap: wrap;
-    list-style: none;
-    padding: 0;
-}
-  
-.ceo-text-ul li {
-flex: 0 0 auto;
-margin-right: 1rem;
-}
-
-.ceo-text-ul li:last-child {
-margin-right: 0;
-} */
-
-/* //////////////////////// */
-
 .ceo-text-p{
     padding: 10px 0px;
 }
@@ -69,3 +49,21 @@ margin-right: 0;
 .ceo-text-ul a{
     color: dodgerblue;
 }
+
+
+/* RESPONSIVE DESIGN */
+
+@media (max-width: 942px) {
+    .test-testimonies{
+        display: flex;
+        flex-direction: column;
+    }
+    .ceo-text-p{
+        margin-top: 20px;
+    }
+    .ceo-text-ul{
+        margin-left: -30px;
+    }
+}
+
+/* RESPONSIVE DESIGN */

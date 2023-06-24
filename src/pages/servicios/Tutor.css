@@ -17,3 +17,22 @@
 .tutor-text span{
     font-weight: bold;
 }
+
+/* RESPONSIVE DESIGN */
+
+@media (max-width: 995px) {
+    .tutor{
+        display: flex;
+        flex-direction: column;
+    }
+    .tutor-text{
+        margin-bottom: -60px;
+    }
+    .tutor-img{
+        margin-top: -60px;
+        margin-bottom: 20px;
+        align-self: center;
+    }
+}
+
+/* RESPONSIVE DESIGN */

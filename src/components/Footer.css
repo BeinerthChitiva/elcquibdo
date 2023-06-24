@@ -60,6 +60,10 @@ footer{
     color: white;
 }
 
+.footer-content-2 h4{
+    font-weight: bold;
+}
+
 .copyright{
     color: white;
     margin-top: 10px;

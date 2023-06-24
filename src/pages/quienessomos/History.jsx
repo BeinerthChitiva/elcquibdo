@@ -8,7 +8,6 @@ function History(){
             <HeroPages name="Historia ELC"/>
             <div className="container">
                 <div className="history-main">
-                    {/* <img/> */}
                     <div className="history-text">
                         <h1>The English Learning Center - Centro para el Aprendizaje de Inglés</h1>
                         <p>
