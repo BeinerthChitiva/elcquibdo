@@ -62,7 +62,7 @@ function Footer(){
 
                         <ul className="footer-content-2">
                             <li>Horario De Atención</li>
-                            <li>Lunes - Viernes: 2:00AM - 6:00PM</li>
+                            <li>Lunes - Viernes: 2:00PM - 6:00PM</li>
                         </ul>
 
                         <ul className="footer-content-2">

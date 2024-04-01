@@ -29,13 +29,13 @@ function Level3(){
                             </AccordionItemHeading>
                             <AccordionItemPanel>
                                 <div className="acc-btns">
-                                    <a href="http://elcquibdo.com/wp-content/uploads/independent-learning-tools/03-understanding-words/understanding-words01/activity.pdf" target="_blank" rel="noopener noreferrer" className="acc-btn">
+                                    <a href="https://drive.google.com/file/d/1Zv2EGFf9V8jVps65s-Z2EYJTAk0K1ioW/view?usp=sharing" target="_blank" rel="noopener noreferrer" className="acc-btn">
                                         Activity
                                     </a>
-                                    <a href="http://elcquibdo.com/wp-content/uploads/independent-learning-tools/03-understanding-words/understanding-words01/audio.mp3" target="_blank" rel="noopener noreferrer" className="acc-btn">
+                                    <a href="https://drive.google.com/file/d/1GT1_CwagJv2g6zJCBpzx_ASCIUu7WJpj/view?usp=sharing" target="_blank" rel="noopener noreferrer" className="acc-btn">
                                         Audio
                                     </a>
-                                    <a href="http://elcquibdo.com/wp-content/uploads/independent-learning-tools/03-understanding-words/understanding-words01/answers.pdf" target="_blank" rel="noopener noreferrer" className="acc-btn">
+                                    <a href="https://drive.google.com/file/d/12qa-2p2YAOPp5G02JRJ5r8_14Skpt75o/view?usp=sharing" target="_blank" rel="noopener noreferrer" className="acc-btn">
                                         Answers
                                     </a>
                                 </div>
@@ -49,16 +49,16 @@ function Level3(){
                             </AccordionItemHeading>
                             <AccordionItemPanel>
                                 <div className="acc-btns">
-                                    <a href="http://elcquibdo.com/wp-content/uploads/independent-learning-tools/03-understanding-words/understanding-words02/activity.pdf" target="_blank" rel="noopener noreferrer" className="acc-btn">
+                                    <a href="https://drive.google.com/file/d/17Q5j00tCh67KMyeaMEc9KY9lVqRr9xcP/view?usp=sharing" target="_blank" rel="noopener noreferrer" className="acc-btn">
                                         Activity
                                     </a>
-                                    <a href="http://elcquibdo.com/wp-content/uploads/independent-learning-tools/03-understanding-words/understanding-words02/audio1.mp3" target="_blank" rel="noopener noreferrer" className="acc-btn">
+                                    <a href="https://drive.google.com/file/d/1xJYVoWFDAy0zcQ9sR3KJ5-0yicuYaET-/view?usp=sharing" target="_blank" rel="noopener noreferrer" className="acc-btn">
                                         Audio #1
                                     </a>
-                                    <a href="http://elcquibdo.com/wp-content/uploads/independent-learning-tools/03-understanding-words/understanding-words02/audio2.mp3" target="_blank" rel="noopener noreferrer" className="acc-btn">
+                                    <a href="https://drive.google.com/file/d/1SGXHSHTm53NncWSGGxBDHEdWmTIzWcqU/view?usp=sharing" target="_blank" rel="noopener noreferrer" className="acc-btn">
                                         Audio #2
                                     </a>
-                                    <a href="http://elcquibdo.com/wp-content/uploads/independent-learning-tools/03-understanding-words/understanding-words02/answers.pdf" target="_blank" rel="noopener noreferrer" className="acc-btn">
+                                    <a href="https://drive.google.com/file/d/1Ozqdx8nKhEpYJHj8r_yfpLFo0GluCiZY/view?usp=sharing" target="_blank" rel="noopener noreferrer" className="acc-btn">
                                         Answers
                                     </a>
                                 </div>
@@ -72,13 +72,13 @@ function Level3(){
                             </AccordionItemHeading>
                             <AccordionItemPanel>
                                 <div className="acc-btns">
-                                    <a href="http://elcquibdo.com/wp-content/uploads/independent-learning-tools/03-understanding-words/understanding-words03/activity.pdf" target="_blank" rel="noopener noreferrer" className="acc-btn">
+                                    <a href="https://drive.google.com/file/d/1Xv3DaRPQd2gJd0qVSb7fa9M3hoM1F2ke/view?usp=sharing" target="_blank" rel="noopener noreferrer" className="acc-btn">
                                         Activity
                                     </a>
-                                    <a href="http://elcquibdo.com/wp-content/uploads/independent-learning-tools/03-understanding-words/understanding-words03/audio.mp3" target="_blank" rel="noopener noreferrer" className="acc-btn">
+                                    <a href="https://drive.google.com/file/d/1T4S9PDhoGYS_v8mJ1TmaMuaQWkLHeytx/view?usp=sharing" target="_blank" rel="noopener noreferrer" className="acc-btn">
                                         Audio
                                     </a>
-                                    <a href="http://elcquibdo.com/wp-content/uploads/independent-learning-tools/03-understanding-words/understanding-words03/answers.pdf" target="_blank" rel="noopener noreferrer" className="acc-btn">
+                                    <a href="https://drive.google.com/file/d/1cjVD_MnUAytnRtPP0amSdNEIFKtyKrSk/view?usp=sharing" target="_blank" rel="noopener noreferrer" className="acc-btn">
                                         Answers
                                     </a>
                                 </div>
@@ -92,16 +92,16 @@ function Level3(){
                             </AccordionItemHeading>
                             <AccordionItemPanel>
                                 <div className="acc-btns">
-                                    <a href="http://elcquibdo.com/wp-content/uploads/independent-learning-tools/03-understanding-words/understanding-words04/activity.pdf" target="_blank" rel="noopener noreferrer" className="acc-btn">
+                                    <a href="https://drive.google.com/file/d/1Sk3WGzYHkBo9zUn793NY018FNrnUZFwC/view?usp=sharing" target="_blank" rel="noopener noreferrer" className="acc-btn">
                                         Activity
                                     </a>
-                                    <a href="http://elcquibdo.com/wp-content/uploads/independent-learning-tools/03-understanding-words/understanding-words04/audio1.mp3" target="_blank" rel="noopener noreferrer" className="acc-btn">
+                                    <a href="https://drive.google.com/file/d/13aECzdgecZvbnoZk0sfXE2kdc5nVMQyQ/view?usp=sharing" target="_blank" rel="noopener noreferrer" className="acc-btn">
                                         Audio #1
                                     </a>
-                                    <a href="http://elcquibdo.com/wp-content/uploads/independent-learning-tools/03-understanding-words/understanding-words04/audio2.mp3" target="_blank" rel="noopener noreferrer" className="acc-btn">
+                                    <a href="https://drive.google.com/file/d/1Iape8bgmvrpiElaAtHwUWLCwrjd12gsb/view?usp=sharing" target="_blank" rel="noopener noreferrer" className="acc-btn">
                                         Audio #2
                                     </a>
-                                    <a href="http://elcquibdo.com/wp-content/uploads/independent-learning-tools/03-understanding-words/understanding-words04/answers.pdf" target="_blank" rel="noopener noreferrer" className="acc-btn">
+                                    <a href="https://drive.google.com/file/d/10Ng38o_L34zG8qWcZE6gcyR6CIJ4k4qQ/view?usp=sharing" target="_blank" rel="noopener noreferrer" className="acc-btn">
                                         Answers
                                     </a>
                                 </div>
@@ -115,16 +115,16 @@ function Level3(){
                             </AccordionItemHeading>
                             <AccordionItemPanel>
                                 <div className="acc-btns">
-                                    <a href="http://elcquibdo.com/wp-content/uploads/independent-learning-tools/03-understanding-words/understanding-words05/activity.pdf" target="_blank" rel="noopener noreferrer" className="acc-btn">
+                                    <a href="https://drive.google.com/file/d/1a3wvrBnbAUbT7DH503aimBC-gIUGTZgO/view?usp=sharing" target="_blank" rel="noopener noreferrer" className="acc-btn">
                                         Activity
                                     </a>
-                                    <a href="http://elcquibdo.com/wp-content/uploads/independent-learning-tools/03-understanding-words/understanding-words05/audio1.mp3" target="_blank" rel="noopener noreferrer" className="acc-btn">
+                                    <a href="https://drive.google.com/file/d/1kH4WGMzdzZLUXroPwDRLjvfSIKTqbdJx/view?usp=sharing" target="_blank" rel="noopener noreferrer" className="acc-btn">
                                         Audio #1
                                     </a>
-                                    <a href="http://elcquibdo.com/wp-content/uploads/independent-learning-tools/03-understanding-words/understanding-words05/audio2.mp3" target="_blank" rel="noopener noreferrer" className="acc-btn">
+                                    <a href="https://drive.google.com/file/d/15n_UsegbN0OHzp0_mhi4ehriwpcquz5e/view?usp=sharing" target="_blank" rel="noopener noreferrer" className="acc-btn">
                                         Audio #2
                                     </a>
-                                    <a href="http://elcquibdo.com/wp-content/uploads/independent-learning-tools/03-understanding-words/understanding-words05/answers.pdf" target="_blank" rel="noopener noreferrer" className="acc-btn">
+                                    <a href="https://drive.google.com/file/d/1Pe9IFsk7UZYQocCFdEjkcfItR6_T-s0W/view?usp=sharing" target="_blank" rel="noopener noreferrer" className="acc-btn">
                                         Answers
                                     </a>
                                 </div>
@@ -138,13 +138,13 @@ function Level3(){
                             </AccordionItemHeading>
                             <AccordionItemPanel>
                                 <div className="acc-btns">
-                                    <a href="http://elcquibdo.com/wp-content/uploads/independent-learning-tools/03-understanding-words/understanding-words06/activity.pdf" target="_blank" rel="noopener noreferrer" className="acc-btn">
+                                    <a href="https://drive.google.com/file/d/18wxr0qAM1v-CF5YunlpPzi5NM0nCY8u_/view?usp=sharing" target="_blank" rel="noopener noreferrer" className="acc-btn">
                                         Activity
                                     </a>
-                                    <a href="http://elcquibdo.com/wp-content/uploads/independent-learning-tools/03-understanding-words/understanding-words06/audio.mp3" target="_blank" rel="noopener noreferrer" className="acc-btn">
+                                    <a href="https://drive.google.com/file/d/1k502kV4TCs3kHShPGMX7h5vRI4zg8Bsw/view?usp=sharing" target="_blank" rel="noopener noreferrer" className="acc-btn">
                                         Audio
                                     </a>
-                                    <a href="http://elcquibdo.com/wp-content/uploads/independent-learning-tools/03-understanding-words/understanding-words06/answers.pdf" target="_blank" rel="noopener noreferrer" className="acc-btn">
+                                    <a href="https://drive.google.com/file/d/1HxEPQK1KNwEJbH22Vq0JDLOl4MQBr2C6/view?usp=sharing" target="_blank" rel="noopener noreferrer" className="acc-btn">
                                         Answers
                                     </a>
                                 </div>
@@ -158,13 +158,13 @@ function Level3(){
                             </AccordionItemHeading>
                             <AccordionItemPanel>
                                 <div className="acc-btns">
-                                    <a href="http://elcquibdo.com/wp-content/uploads/independent-learning-tools/03-understanding-words/understanding-words07/activity.pdf" target="_blank" rel="noopener noreferrer" className="acc-btn">
+                                    <a href="https://drive.google.com/file/d/1lwnUvPvVaD9tqmyxxXpR2mtv73VPULzs/view?usp=sharing" target="_blank" rel="noopener noreferrer" className="acc-btn">
                                         Activity
                                     </a>
-                                    <a href="http://elcquibdo.com/wp-content/uploads/independent-learning-tools/03-understanding-words/understanding-words07/audio.mp3" target="_blank" rel="noopener noreferrer" className="acc-btn">
+                                    <a href="https://drive.google.com/file/d/1rtAIhuEFElDsnuOxw5h8pUGNZ6G5pjCh/view?usp=sharing" target="_blank" rel="noopener noreferrer" className="acc-btn">
                                         Audio
                                     </a>
-                                    <a href="http://elcquibdo.com/wp-content/uploads/independent-learning-tools/03-understanding-words/understanding-words07/answers.pdf" target="_blank" rel="noopener noreferrer" className="acc-btn">
+                                    <a href="https://drive.google.com/file/d/1fMwRqH5nkgEPhlw5L8EnYcLoI9P6O_pK/view?usp=sharing" target="_blank" rel="noopener noreferrer" className="acc-btn">
                                         Answers
                                     </a>
                                 </div>
@@ -178,13 +178,13 @@ function Level3(){
                             </AccordionItemHeading>
                             <AccordionItemPanel>
                                 <div className="acc-btns">
-                                    <a href="http://elcquibdo.com/wp-content/uploads/independent-learning-tools/03-understanding-words/understanding-words08/activity.pdf" target="_blank" rel="noopener noreferrer" className="acc-btn">
+                                    <a href="https://drive.google.com/file/d/1MYjsNw7x76vuRaxTd-0J5ZlCu11I7SDo/view?usp=sharing" target="_blank" rel="noopener noreferrer" className="acc-btn">
                                         Activity
                                     </a>
-                                    <a href="http://elcquibdo.com/wp-content/uploads/independent-learning-tools/03-understanding-words/understanding-words08/audio.mp3" target="_blank" rel="noopener noreferrer" className="acc-btn">
+                                    <a href="https://drive.google.com/file/d/1VHbwWgrMcObODrpKvDOQtzyzCEex5YH-/view?usp=sharing" target="_blank" rel="noopener noreferrer" className="acc-btn">
                                         Audio
                                     </a>
-                                    <a href="http://elcquibdo.com/wp-content/uploads/independent-learning-tools/03-understanding-words/understanding-words08/answers.pdf" target="_blank" rel="noopener noreferrer" className="acc-btn">
+                                    <a href="https://drive.google.com/file/d/1H1_sZHUfjNW5yCYbtCd41I1Cb2jWT81x/view?usp=sharing" target="_blank" rel="noopener noreferrer" className="acc-btn">
                                         Answers
                                     </a>
                                 </div>
@@ -198,13 +198,13 @@ function Level3(){
                             </AccordionItemHeading>
                             <AccordionItemPanel>
                                 <div className="acc-btns">
-                                    <a href="http://elcquibdo.com/wp-content/uploads/independent-learning-tools/03-understanding-words/understanding-words09/activity.pdf" target="_blank" rel="noopener noreferrer" className="acc-btn">
+                                    <a href="https://drive.google.com/file/d/1eprpob3dVFg3c-zMmiaJ3t-ewM_rugzD/view?usp=sharing" target="_blank" rel="noopener noreferrer" className="acc-btn">
                                         Activity
                                     </a>
-                                    <a href="http://elcquibdo.com/wp-content/uploads/independent-learning-tools/03-understanding-words/understanding-words09/audio.mp3" target="_blank" rel="noopener noreferrer" className="acc-btn">
+                                    <a href="https://drive.google.com/file/d/11Gif7OiY-Wo3rUStrpY0T6MoqRjKR6f2/view?usp=sharing" target="_blank" rel="noopener noreferrer" className="acc-btn">
                                         Audio
                                     </a>
-                                    <a href="http://elcquibdo.com/wp-content/uploads/independent-learning-tools/03-understanding-words/understanding-words09/answers.pdf" target="_blank" rel="noopener noreferrer" className="acc-btn">
+                                    <a href="https://drive.google.com/file/d/15hRfLPLWj9QfNlh49MioZ-zxrFv3nUm7/view?usp=sharing" target="_blank" rel="noopener noreferrer" className="acc-btn">
                                         Answers
                                     </a>
                                 </div>
@@ -218,13 +218,13 @@ function Level3(){
                             </AccordionItemHeading>
                             <AccordionItemPanel>
                                 <div className="acc-btns">
-                                    <a href="http://elcquibdo.com/wp-content/uploads/independent-learning-tools/03-understanding-words/understanding-words10/activity.pdf" target="_blank" rel="noopener noreferrer" className="acc-btn">
+                                    <a href="https://drive.google.com/file/d/1FdebSitpGtIRBBOcNzYshMDp-0V5oyPR/view?usp=sharing" target="_blank" rel="noopener noreferrer" className="acc-btn">
                                         Activity
                                     </a>
-                                    <a href="http://elcquibdo.com/wp-content/uploads/independent-learning-tools/03-understanding-words/understanding-words10/audio.mp3" target="_blank" rel="noopener noreferrer" className="acc-btn">
+                                    <a href="https://drive.google.com/file/d/1Cd2ZfO3ir_kiprXRHb_d2wHWPGVQzEfz/view?usp=sharing" target="_blank" rel="noopener noreferrer" className="acc-btn">
                                         Audio
                                     </a>
-                                    <a href="http://elcquibdo.com/wp-content/uploads/independent-learning-tools/03-understanding-words/understanding-words10/answers.pdf" target="_blank" rel="noopener noreferrer" className="acc-btn">
+                                    <a href="https://drive.google.com/file/d/1uJWCYghK3YwglpP47jEnj7fGBt_dXbNu/view?usp=sharing" target="_blank" rel="noopener noreferrer" className="acc-btn">
                                         Answers
                                     </a>
                                 </div>
