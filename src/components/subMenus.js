@@ -30,4 +30,5 @@ export const subMenus = {
     { label: "English Day", url: "/englishday" },
     { label: "Fondo de Becas Oscar Gonzalez", url: "/becas" }
   ]
+
 };

@@ -34,57 +34,64 @@ import Level2 from './pages/independentlt/Level2';
 import Level3 from './pages/independentlt/Level3';
 import Level4 from './pages/independentlt/Level4';
 import Level5 from './pages/independentlt/Level5';
+import Redirect from './pages/ESAL/ESAL';
 
 function App() {
   return (
     <div className="app-container">
-      <Navbar/>
+      <Navbar />
       <Routes>
-        <Route index path="/" element={<Home/>}/>
+        <Route index path="/" element={<Home />} />
 
         {/* Quienes Somos */}
-        <Route path="quienes-somos" element={<History/>}/>
-        <Route path="metodologia" element={<Methodology/>}/>
-        <Route path="staff" element={<Staff/>}/>
-        <Route path="contacto" element={<Contact/>}/>
-        <Route path="testimonios" element={<Testimony/>}/>
+        <Route path="quienes-somos" element={<History />} />
+        <Route path="metodologia" element={<Methodology />} />
+        <Route path="staff" element={<Staff />} />
+        <Route path="contacto" element={<Contact />} />
+        <Route path="testimonios" element={<Testimony />} />
+
+
+        {/* ESAL */}
+        <Route path="/ESAL" element={<Redirect />} />
+
 
         {/* Cursos De Inglés */}
-        <Route path="cursos" element={<Courses/>}/>
-        <Route path="saber11" element={<Preparation/>}/>
-        <Route path="especiales" element={<SpecialCourses/>}/>
-        <Route path="descuentos" element={<Discounts/>}/>
+        <Route path="cursos" element={<Courses />} />
+        <Route path="saber11" element={<Preparation />} />
+        <Route path="especiales" element={<SpecialCourses />} />
+        <Route path="descuentos" element={<Discounts />} />
 
         {/* Nuestros Servicios */}
-        <Route path="inmersion" element={<Inmersion/>}/>
-        <Route path="tutorias" element={<Tutor/>}/>
-        <Route path="toeic" element={<TOEIC/>}/>
-        <Route path="unica" element={<UNICA/>}/>
-        <Route path="amity" element={<AMITY/>}/>
-        <Route path="club" element={<Club/>}/>
-        <Route path="independent-learning-tools" element={<ILT/>}/>
+        <Route path="inmersion" element={<Inmersion />} />
+        <Route path="tutorias" element={<Tutor />} />
+        <Route path="toeic" element={<TOEIC />} />
+        <Route path="unica" element={<UNICA />} />
+        <Route path="amity" element={<AMITY />} />
+        <Route path="club" element={<Club />} />
+        <Route path="independent-learning-tools" element={<ILT />} />
 
         {/* Independent Learning Tools */}
-        <Route path="ilt-unscramble" element={<Level1/>}/>
-        <Route path="ilt-fill-in-the-blanks" element={<Level2/>}/>
-        <Route path="ilt-understanding-words" element={<Level3/>}/>
-        <Route path="ilt-understanding-as-many" element={<Level4/>}/>
-        <Route path="ilt-main-idea" element={<Level5/>}/>
+        <Route path="ilt-unscramble" element={<Level1 />} />
+        <Route path="ilt-fill-in-the-blanks" element={<Level2 />} />
+        <Route path="ilt-understanding-words" element={<Level3 />} />
+        <Route path="ilt-understanding-as-many" element={<Level4 />} />
+        <Route path="ilt-main-idea" element={<Level5 />} />
+
 
         {/* Eventos / Programas */}
-        <Route path="seedsofchange" element={<Seeds/>}/>
-        <Route path="semillas-2023" element={<Estudiantes/>}/>
-        <Route path="movingforward" element={<Forward/>}/>
-        <Route path="choco" element={<Choco/>}/>
-        <Route path="nuqui" element={<Nuqui/>}/>
-        <Route path="spellingbee" element={<Spelling/>}/>
-        <Route path="englishday" element={<EnglishDay/>}/>
-        <Route path="becas" element={<Becas/>}/>
+        <Route path="seedsofchange" element={<Seeds />} />
+        <Route path="semillas-2023" element={<Estudiantes />} />
+        <Route path="movingforward" element={<Forward />} />
+        <Route path="choco" element={<Choco />} />
+        <Route path="nuqui" element={<Nuqui />} />
+        <Route path="spellingbee" element={<Spelling />} />
+        <Route path="englishday" element={<EnglishDay />} />
+        <Route path="becas" element={<Becas />} />
 
         {/* Blog */}
-        <Route path="blog" element={<Blog/>}/>
-        <Route path="bilinguismo" element={<Biling/>}/>
-        <Route path="utch-istmina" element={<Istmina/>}/>
+        <Route path="blog" element={<Blog />} />
+        <Route path="bilinguismo" element={<Biling />} />
+        <Route path="utch-istmina" element={<Istmina />} />
       </Routes>
     </div>
   );
