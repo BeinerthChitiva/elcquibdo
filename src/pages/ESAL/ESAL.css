@@ -1,0 +1,35 @@
+/* ESAL.css */
+.redirect-container {
+  max-width: 700px;
+  margin: 40px auto;
+  text-align: center;
+  font-family: Arial, sans-serif;
+  padding: 20px;
+}
+
+.redirect-container h1 {
+  margin-bottom: 30px;
+  font-size: 28px;
+  color: #333;
+}
+
+.button-grid {
+  display: flex;
+  flex-direction: column;
+  gap: 15px;
+}
+
+.redirect-button {
+  display: inline-block;
+  background-color: #007bff;
+  color: white;
+  padding: 14px 20px;
+  text-decoration: none;
+  border-radius: 8px;
+  font-size: 16px;
+  transition: background-color 0.3s ease;
+}
+
+.redirect-button:hover {
+  background-color: #0056b3;
+}

@@ -1,20 +1,20 @@
 import "./Navbar.css"
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome'
-import { faAlignJustify  } from '@fortawesome/free-solid-svg-icons'
+import { faAlignJustify } from '@fortawesome/free-solid-svg-icons'
 import { Link } from "react-router-dom"
 import Dropdown from "./Dropdown"
 import { useState, useRef, useEffect } from "react"
 import { subMenus } from "./subMenus"
 import MobileMenu from "./MobileMenu";
 
-function Navbar(){
+function Navbar() {
     const [dropdownVisible, setDropdownVisible] = useState(false)
     const [dropdownPosition, setDropdownPosition] = useState({})
     const [dropdownLinks, setDropdownLinks] = useState([])
     const navbarRef = useRef(null)
     const [isMobileMenuOpen, setIsMobileMenuOpen] = useState(false);
 
-    function handleClick(e, links){
+    function handleClick(e, links) {
         setDropdownVisible(true)
         setDropdownPosition({
             top: e.target.offsetTop + e.target.offsetHeight,
@@ -23,12 +23,12 @@ function Navbar(){
         setDropdownLinks(links)
     }
 
-    function handleDropdownClose(){
+    function handleDropdownClose() {
         setDropdownVisible(false)
     }
 
-    function handleClickOutsideDropdown(e){
-        if(
+    function handleClickOutsideDropdown(e) {
+        if (
             navbarRef.current &&
             !navbarRef.current.contains(e.target) &&
             e.target.className !== 'mobile-menu'
@@ -61,7 +61,7 @@ function Navbar(){
         setIsMobileMenuOpen(false);
     }
 
-    return(
+    return (
         <nav ref={navbarRef}>
             <Link to="/" className="logo">
                 <h3>ELC Quibdó</h3>
@@ -70,6 +70,12 @@ function Navbar(){
                 <li>
                     <Link className="nav-links" onClick={(e) => handleClick(e, subMenus["Quienes Somos"])}>
                         Quienes Somos
+                    </Link>
+                </li>
+
+                <li>
+                    <Link className="nav-links" to="/ESAL">
+                        ESAL
                     </Link>
                 </li>
                 <li>
@@ -92,7 +98,12 @@ function Navbar(){
                         Blog
                     </Link>
                 </li>
+
+
             </ul>
+
+
+
             {dropdownVisible && (
                 <Dropdown
                     onClose={handleDropdownClose}
@@ -102,7 +113,7 @@ function Navbar(){
                 />
             )}
             <div className="mobile-menu-icon" onClick={handleMobileMenuClick}>
-                <FontAwesomeIcon icon={faAlignJustify} onClick={handleMobileMenuClick}/>
+                <FontAwesomeIcon icon={faAlignJustify} onClick={handleMobileMenuClick} />
             </div>
             <MobileMenu isOpen={isMobileMenuOpen} onClose={handleMobileMenuClose} />
         </nav>
