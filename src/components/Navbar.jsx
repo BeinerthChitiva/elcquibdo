@@ -74,11 +74,6 @@ function Navbar() {
                 </li>
 
                 <li>
-                    <Link className="nav-links" to="/ESAL">
-                        ESAL
-                    </Link>
-                </li>
-                <li>
                     <Link className="nav-links" onClick={(e) => handleClick(e, subMenus["Cursos De Inglés"])}>
                         Cursos De Inglés
                     </Link>
@@ -96,6 +91,13 @@ function Navbar() {
                 <li>
                     <Link className="nav-links" to="/blog">
                         Blog
+                    </Link>
+                </li>
+
+                
+                <li>
+                    <Link className="nav-links" to="/ESAL">
+                        ESAL
                     </Link>
                 </li>
 

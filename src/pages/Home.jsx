@@ -3,7 +3,8 @@ import "slick-carousel/slick/slick.css";
 import "slick-carousel/slick/slick-theme.css";
 import kids from "../images/kids2.png"
 import teens from "../images/teens2.png"
-import promo from "../images/imagenpromocional-2024.jpg"
+import promo from "../images/MatriculasAbiertas.png"
+import toefl from "../images/TOEFL_ITP.png"
 import two from "../images/two.png"
 import atm from "../images/atm.jpg"
 import "./Home.css"
@@ -11,6 +12,7 @@ import Footer from "../components/Footer";
 
 const images = [
     promo,
+    toefl,
     atm,
     kids,
     teens,
